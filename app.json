@@ -1,5 +1,5 @@
 {
-    "name": "VIHANA MD",
+    "name": "U R MENTAL BUT I LIKE U",
     "description": "whatsapp md bot build with nodejs",
     "repository": "https://github.com/vihangayt0/VihangaBot-MD-V2",
     "logo": "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg",
@@ -68,7 +68,7 @@
 "CALL_BLOCK" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
-  "value" : "false"
+  "value" : "true"
     },
       
 "AUTO_BLOCK212" :{
@@ -98,49 +98,49 @@
 "REACT_NUMBER" :{
     "description" : "TYPE OWNER NUMBER TO OWNER REACT",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "+919728714060"
     },
       
 "OWNER_NUMBER" :{
     "description" : "TYPE OWNER NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "+919728714060"
     },
       
 "OWNER_NUMBER2" :{
     "description" : "TYPE ANY NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "+919728714060"
     },
     
 "BOT_NAME" :{
     "description" : "TYPE BOT NAME",
     "required" : true,
-  "value" : "𝐕𝐈𝐇𝐀𝐍𝐆𝐀 𝐌𝐃"
+  "value" : "SANJU BHAI"
     },
       
 "OWNER_NAME" :{
     "description" : "TYPE OWNER NAME",
     "required" : true,
-  "value" : "ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ"
+  "value" : "SANJU BHAI"
     },
       
 "GROUP_LINK" :{
     "description" : "TYPE GROUP LINK",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "https:"
 },
       
   "GROUP_LINK2" :{
     "description" : "TYPE GROUP LINK 2",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "https"
 },
     
 "PACK_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "STICKER BY VIHANGA MD"
+  "value" : "☛➪🇦ʟɪﮩﮩ٨ــ❤‍🩹🔐≛✧"
 },
   
 "CAP_NAME" :{
